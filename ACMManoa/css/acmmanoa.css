@@ -16,7 +16,7 @@ body {
 
 .business-header {
     height: 400px;
-    background: url('images/meetings/marMeeting.JPG') center center no-repeat scroll;
+    background: url('../images/meetings/marMeeting.JPG') center center no-repeat scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
