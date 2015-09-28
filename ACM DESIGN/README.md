@@ -16,17 +16,17 @@ We use bootstrap to quickly develop a mobile friendly website and later override
 ###Custom Styles
 If you would like to override bootstrap's default styles, make sure you do not override any core bootstrap files. Instead, override with your own css files. If you are not sure how to set this up, the following diagram tries to help you out.
 
-Website Folder
-|
-|_css
-| |_bootstrap.min.css
-| |_custom.css (your css file)
-|
-|_js
-| |_bootstrap.min.js
-| |_main.js (your js file)
-|
-|_index.html
+    Website Folder
+    |
+    |_css
+    | |_bootstrap.min.css
+    | |_custom.css (your css file)
+    |
+    |_js
+    | |_bootstrap.min.js
+    | |_main.js (your js file)
+    |
+    |_index.html
 
 One important thing to point out is that you need to link your custom css AFTER you link your bootstrap's css files. If we were to use the above set up, it would look like so:
 
