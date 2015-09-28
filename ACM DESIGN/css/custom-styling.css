@@ -1,0 +1,31 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+body section {
+  padding: 50px 35px;
+}
+body section#landing-banner {
+  background-color: #29313f;
+  color: #ffffff;
+}
+/**************************\
+ * Primary Button Styling *
+\**************************/
+.btn-primary {
+  padding: 10px 15px;
+  color: #ffffff;
+  background-color: #63c7b2;
+  border: none;
+  border-radius: 0px;
+}
+.btn-primary:focus,
+.btn-primary.focus {
+  color: #ffffff;
+  background-color: #88d5cb;
+  border: none;
+  border-radius: 0px;
+}
+.btn-primary:hover {
+  color: #ffffff;
+  background-color: #88d5cb;
+}
