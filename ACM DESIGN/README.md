@@ -169,5 +169,7 @@ And our actual referencing in our index.html file will look like this:
 </html>
 ```
 
+Hope this helped out a little. This page will constantly be updated with new things as we go on with ACM webdev.
+
 
 
