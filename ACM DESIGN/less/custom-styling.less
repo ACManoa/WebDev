@@ -1,0 +1,46 @@
+@eggPlant: #29313f;
+@sealGrey: #87919e;
+@sealGreyLight: #88d5cb;
+@crestTurquoise: #63C7B2;
+
+// Defaul Colors
+@white: #FFF;
+@black: #000;
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	section {
+		padding: 50px 35px;
+		&#landing-banner {
+			background-color: @eggPlant;
+			color: @white;
+		}
+	}
+}
+
+// Bootstrap Overrides
+
+/**************************\
+ * Primary Button Styling *
+\**************************/
+.btn-primary {
+  padding: 10px 15px;
+  color: @white;
+  background-color: @crestTurquoise;
+  //border-color: #2e6da4;
+  border: none;
+  border-radius: 0px;
+}
+.btn-primary:focus,
+.btn-primary.focus {
+  color: @white;
+  background-color: @sealGreyLight;
+  border: none;
+  border-radius: 0px;
+}
+.btn-primary:hover {
+  color: @white;
+  background-color: @sealGreyLight;
+}
+
+
