@@ -19,7 +19,7 @@ If you would like to get your hands dirty with some front-end development, I cre
 ####Basic File Structure Setup
 Before getting into the details, the first thing you want to do is create a directory with the name of your site. This could be anything you would like. In this tutorial we will name it "Website".
 
-Inside of "Website" we create two other directories (css and js) and a file called index.html. The directory css will hold all your css files for the site, the directory js will hold all your javascript files for the site, and the file index.html will be your "home page". 
+Inside of "Website" we create two other directories (css and js) and a file called index.html. The directory named "css" will hold all your css files for the site, the directory named "js" will hold all your javascript files for the site, and the file named "index.html" will be your "home page". 
 
 It should look like this:
     
@@ -34,9 +34,9 @@ It should look like this:
     |_index.html
 
 ####Adding Bootstrap
-Now how do we exactly incorporate bootstrap with our website? There are a few ways, but I will only explain two options.
+Now how do we exactly incorporate bootstrap with our website? There are a few ways. In this tutorial we will explain on in detail and briefly touch up on the other.
 
-1. First, you can head over to http://getbootstrap.com and download the whole package to your machine and from there add them to your "Website" directory.
+1. First, you can head over to http://getbootstrap.com and download the whole package to your machine. From there you will add the files needed to your "Website" directory.
 2. Second, you can use Bower (a really useful and convenient package manager for the web) to install your bootstrap files.
 
 Now I'm not going to get too much into detail when going the Bower route, so if you want to check it out head over to their site at: http://bower.io/ and to install bower onto your machine head over to: http://bower.io/#install-bower 
