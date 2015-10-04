@@ -26,10 +26,12 @@ We use 2 font weights: normal(400) and bold(700)
 
 Quick Use:
 ```html
+    <!-- html -->
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
 ```
 
 ```css
+    // css
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-weight: 700;
