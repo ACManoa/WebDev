@@ -13,6 +13,13 @@ Styling for the website is currently done using Twitter Bootstrap's Framework (v
 
 We use bootstrap to quickly develop a mobile friendly website and later override with our own custom css.
 
+###Color Scheme
+```css
+    orange: #FF9268;
+    turquoise: #63C7B2;
+    darkBlue: #384A58;
+```
+
 ##Front-end Setup Up Tutorial v1.0
 If you would like to get your hands dirty with some front-end development, I created a small tutorial to help you get all set up. (It's not the best, but we hope it will do).
 
