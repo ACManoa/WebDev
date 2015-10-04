@@ -14,10 +14,13 @@ We use bootstrap to quickly develop a mobile friendly website and later override
 
 ###2. Color Scheme
 ```css
-    orange: #FF9268;
-    turquoise: #63C7B2;
+    white: #FFFFFF;
     darkBlue: #384A58;
+    turquoise: #63C7B2;
+    orange: #FF9268;
 ```
+
+[logo]: https://github.com/acmmanoa/WebDev/blob/master/ACM%20DESIGN/images/color_scheme_v01.png "Color Scheme Version 01"
 
 ###3. Typography
 We use a google hosted font called 'Open Sans' located here: https://www.google.com/fonts/specimen/Open+Sans
