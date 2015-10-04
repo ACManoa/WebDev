@@ -2,10 +2,10 @@
 
 ###Goal:
 The Goal of ACM DESIGN is to help organize the front-end design of our ACM website. This includes:
-1. Frameworks/Tools
-2. Color Scheme
-3. Typography
-4. Branding
+    1. Frameworks/Tools
+    2. Color Scheme
+    3. Typography
+    4. Branding
 
 ###1. Frameworks
 Styling for the website is currently done using Twitter Bootstrap's Framework (v3.3.5). If you are not sure how to use this framework, you can check out their documentation here: http://getbootstrap.com 
