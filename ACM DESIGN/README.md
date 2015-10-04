@@ -19,6 +19,8 @@ We use bootstrap to quickly develop a mobile friendly website and later override
     turquoise: #63C7B2;
     orange: #FF9268;
 ```
+Color Scheme v_1.0: 
+![alt text][logo]
 
 [logo]: https://github.com/acmmanoa/WebDev/blob/master/ACM%20DESIGN/images/color_scheme_v01.png "Color Scheme Version 01"
 
