@@ -20,6 +20,22 @@ We use bootstrap to quickly develop a mobile friendly website and later override
     darkBlue: #384A58;
 ```
 
+###Typography
+We use a google hosted font called 'Open Sans' located here: https://www.google.com/fonts/specimen/Open+Sans
+We use 2 font weights: normal(400) and bold(700)
+
+Quick Use:
+```html
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+```
+
+```css
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-weight: 700;
+```
+
+
 ##Front-end Setup Up Tutorial v1.0
 If you would like to get your hands dirty with some front-end development, I created a small tutorial to help you get all set up. (It's not the best, but we hope it will do).
 
